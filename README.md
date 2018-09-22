@@ -153,19 +153,19 @@ python export_inference_graph.py --input_type image_tensor --pipeline_config_pat
 
 
 ![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/in/2.jpg)
-![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/out/2.png)
+![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/out/2.PNG)
  
 ![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/in/3.jpg)
-![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/out/3.png)
+![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/out/3.PNG)
 
 ![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/in/4.jpg)
-![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/out/4.png)
+![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/out/4.PNG)
 
 ![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/in/5.jpg)
-![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/out/5.png)
+![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/out/5.PNG)
 
 ![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/in/1.jpg)
-![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/out/1.png)
+![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/out/1.PNG)
 
 
 
