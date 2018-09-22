@@ -190,7 +190,7 @@ This occurs when the protobuf files (in this case, preprocessor.proto) have not 
 go to step 12
 
 #### 3.
-![alt text](https://github.com/seraj94ai/Train-an-Object-Detection-Classifier/blob/master/errs/err1.PNG)
+![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/errs/err1.PNG)
 
 ![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/errs/solve%20err1.PNG)
 in `C:\tensorflow1\models\research\object_detection\utils\learning_schedules.py`
