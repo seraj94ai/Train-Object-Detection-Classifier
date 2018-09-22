@@ -145,7 +145,9 @@ input_path : `C:/tensorflow1/models/research/object_detection/test.record`
 label_map_path: `C:/tensorflow1/models/research/object_detection/training/labelmap.pbtxt`
 
 ### 18 - Run the Training
-`python train.py --logtostderr --train_dir=training/ --pipeline_config_path=training/faster_rcnn_inception_v2_pets.config`
+```
+python train.py --logtostderr --train_dir=training/ --pipeline_config_path=training/faster_rcnn_inception_v2_pets.config
+```
 
 ### 19 - Tensorboard 
 in cmd type `(tensorflow1) C:\tensorflow1\models\research\object_detection>tensorboard --logdir=training`
