@@ -1,0 +1,26 @@
+<annotation>
+	<folder>chinook_jpg</folder>
+	<filename>181.jpg</filename>
+	<path>F:\chinook_jpg\181.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chinook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>62</ymin>
+			<xmax>619</xmax>
+			<ymax>540</ymax>
+		</bndbox>
+	</object>
+</annotation>
