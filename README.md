@@ -1,6 +1,6 @@
 # Train-an-Object-Detection-Classifier 
 
-[![Train-an-Object-Detection-Classifier](https://img.youtube.com/vi/eJcIntjgCbQ/0.jpg)](https://youtu.be/eJcIntjgCbQ)
+[![Train-an-Object-Detection-Classifier](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/2018-09-23%20(1).png)](https://youtu.be/eJcIntjgCbQ)
 
 ### 1 - Gathering images
 in my case I use google images to find [chinook] photos , I gather 200 sample
