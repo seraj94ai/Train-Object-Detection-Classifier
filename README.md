@@ -154,26 +154,26 @@ python export_inference_graph.py --input_type image_tensor --pipeline_config_pat
 
 ![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/in/2.jpg)
 ![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/out/2.jpg)
-\
+ 
 ![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/in/3.jpg)
 ![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/out/3.jpg)
-\
+
 ![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/in/4.jpg)
 ![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/out/4.jpg)
-\
+
 ![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/in/5.jpg)
 ![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/out/5.jpg)
-\
+
 ![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/in/1.jpg)
 ![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/out/1.jpg)
-\
+
 
 
 # Appendix: Common Errors
 #### 1. ModuleNotFoundError: No module named 'deployment'
 
 ![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/errs/err3.PNG)
-\
+
 ![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/errs/solve%20err3.PNG)
 
 You can use “echo %PATH%” and “echo %PYTHONPATH%” to check the environment variables and make sure they are set up correctly.
@@ -191,7 +191,7 @@ go to step 12
 
 #### 3.
 ![alt text](https://github.com/seraj94ai/Train-an-Object-Detection-Classifier/blob/master/errs/err1.PNG)
-\
+
 ![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/errs/solve%20err1.PNG)
 in `C:\tensorflow1\models\research\object_detection\utils\learning_schedules.py`
 
@@ -203,9 +203,9 @@ replace `range(num_boundaries)` to  `[i for i in range(num_boundaries)]`
 
 #### 4.
 ![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/errs/err2.PNG)
-\
+
 ![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/errs/solve%20err2.PNG)
-\
+
 ![alt text](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/errs/solve%20err%202.PNG)
 
 in `C:\tensorflow1\models\research\object_detection\generate_tfrecord.py`
