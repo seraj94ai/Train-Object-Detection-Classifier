@@ -1,6 +1,6 @@
 # Train-an-Object-Detection-Classifier 
 
-youtube tutorial
+## youtube tutorial
 [![Train-an-Object-Detection-Classifier](https://github.com/seraj94ai/Train-Object-Detection-Classifier/blob/master/2018-09-23%20(1).png)](https://youtu.be/eJcIntjgCbQ)
 
 ### 1 - Gathering images
