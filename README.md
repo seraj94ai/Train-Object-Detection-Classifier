@@ -1,5 +1,7 @@
 # Train-an-Object-Detection-Classifier 
 
+[![Alt text for your video](https://img.youtube.com/vi/eJcIntjgCbQ/0.jpg)](https://youtu.be/eJcIntjgCbQ)
+
 ### 1 - Gathering images
 in my case I use google images to find [chinook] photos , I gather 200 sample
 
