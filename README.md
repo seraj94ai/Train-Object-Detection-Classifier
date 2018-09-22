@@ -122,27 +122,25 @@ copy `faster_rcnn_inception_v2_pets.config`
 past it in  `\training` dir and edit it 
 
 
-a - 
-In the `model` section change `num_classes` to number of different classes
+#### a - 
+#### In the `model` section change `num_classes` to number of different classes
 
-fine_tune_checkpoint : `C:/tensorflow1/models/research/object_detection/faster_rcnn_inception_v2_coco_2018_01_28/model.ckpt`
+#### b - 
+#### fine_tune_checkpoint : `C:/tensorflow1/models/research/object_detection/faster_rcnn_inception_v2_coco_2018_01_28/model.ckpt`
 
-b - 
-fine_tune_checkpoint : `C:/tensorflow1/models/research/object_detection/faster_rcnn_inception_v2_coco_2018_01_28/model.ckpt`
+#### c - 
+#### In the `train_input_reader` section change `input_path` and `label_map_path` as : <br/>
+#### input_path : `C:/tensorflow1/models/research/object_detection/train.record` <br/>
+#### label_map_path: `C:/tensorflow1/models/research/object_detection/training/labelmap.pbtxt`
 
-c - 
-In the `train_input_reader` section change `input_path` and `label_map_path` as : <br/>
-input_path : `C:/tensorflow1/models/research/object_detection/train.record` <br/>
-label_map_path: `C:/tensorflow1/models/research/object_detection/training/labelmap.pbtxt`
+#### d - 
+#### In the `eval_config` section change `num_examples` as : <br/>
+#### num_examples = number of  files in   `\images\test` directory.
 
-d - 
-In the `eval_config` section change `num_examples` as : <br/>
-num_examples = number of  files in   `\images\test` directory.
-
-e -
-In the `eval_input_reader` section change `input_path` and `label_map_path` as :<br/>
-input_path : `C:/tensorflow1/models/research/object_detection/test.record` <br/>
-label_map_path: `C:/tensorflow1/models/research/object_detection/training/labelmap.pbtxt`
+#### e -
+#### In the `eval_input_reader` section change `input_path` and `label_map_path` as :<br/>
+#### input_path : `C:/tensorflow1/models/research/object_detection/test.record` <br/>
+#### label_map_path: `C:/tensorflow1/models/research/object_detection/training/labelmap.pbtxt`
 
 ### 18 - Run the Training
 ```
