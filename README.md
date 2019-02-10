@@ -60,7 +60,7 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
 
 ### 10 - Download  my Repository 
 https://github.com/seraj94ai/Train-Object-Detection-Classifier.git
-unzip folder and copy past in `C:\tensorflow1\models\research\object_detection`
+unzip folder and copy paste in `C:\tensorflow1\models\research\object_detection`
 open cmd
 ```
 cd C:\tensorflow1\models\research\object_detection
